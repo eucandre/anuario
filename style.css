@@ -1,0 +1,127 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+body, div{
+    margin: 0; border: 0; 
+}
+
+
+body {
+    background-color: #DCDCDC;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+header{}
+
+.header2{
+    height: 30px;
+    width: 100%; 
+    background:  #061c33;
+}
+.header1{
+    height: 50px;
+    width: 100%; 
+    /*background:  #0c3662 url(img/logo.png) 95% 95% no-repeat;*/
+    background  :  #F6F0ED url(img/bandeira.png) no-repeat;
+    font:  bold 35px "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+#banner{
+    width: 100%;
+    top: 100px;    
+}
+
+#quadroConteudo{
+    /*background: #fff;*/
+    border-radius: 10px;
+    box-shadow: 1px 1px 10em #696969;
+    -webkit-box-shadow: 0px 0px 1em #696969;
+    -moz-box-shadow: 0px 0px 1em #696969;
+    top: 10px; 
+    left: 10px;
+    right: 10px;
+    position: relative;
+    width: 99%;
+
+
+}
+#conteudo{
+    margin-top: 10px; 
+    margin-left: 30px; 
+    width: 60%;
+    float: left;	
+    text-align: left;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+     
+}
+
+#menu{
+    margin-top: 10px; 
+    width: 20%;
+    float: left;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+#menu ul li {
+    height: 30%;
+    margin-top: 10px; padding: 0px;
+    margin-bottom: 10px; padding: 0px;
+    border-bottom: 1px solid #CCC;
+    text-align: left;
+    list-style-type: none;
+    color: #53868B;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+
+} 
+#menu ul li a:link{
+    text-decoration: none;
+
+
+
+}
+#menu ul li a:hover{
+    text-decoration: underline;
+
+
+}
+
+
+h1{
+    font-style: oblique;
+    vertical-align: 10%;
+    color: #FFFAFA;
+}
+
+.footer {
+    height: 90px; 
+    background:  #0c3662;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+p{	
+    text-indent: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-align: justify;
+    
+}
+.espacoLateral{
+    text-indent: 15%;
+}
