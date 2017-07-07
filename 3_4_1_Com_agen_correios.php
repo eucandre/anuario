@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="3_INFRAESTRUTURA.php"> 3 - INFRAESTRUTURA</a></li>  
                 <li class="breadcrumb-item"><a href="3_4_COMUNICACOESLinkTabelas.php">3.4 - COMUNICAÇÕES</a></li>
                 <li class="breadcrumb-item active">  3.4.1 - Número de agências de correio</li>

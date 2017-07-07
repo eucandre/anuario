@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="5_INDICADORES.php">5 - INDICADORES</a></li>  
                 <li class="breadcrumb-item"><a href="5_1_INDICADORES_DEMOGRAFICOSLinkTabelas.php"> 5.1 - INDICADORES DEMOGRÁFICOS</a></li>
                 <li class="breadcrumb-item active">   5.1.6 - Taxa de abandono/evasão no ensino</li>

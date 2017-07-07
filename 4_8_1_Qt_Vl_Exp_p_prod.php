@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="4_ECONOMIA.php">4 - ECONOMIA</a></li>  
                 <li class="breadcrumb-item"><a href="4_8_COMERCIO_EXTERIORLinkTabelas.php"> 4.8 - COMÉRCIO EXTERIOR</a></li>
                 <li class="breadcrumb-item active"> 4.8.1 - Quantidade e valor das exportação</li>

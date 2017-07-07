@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="2_CaracteristicasDemograficas.php"> 2 - CARACTERÍSTICAS DEMOGRÁFICAS</a></li>  
                 <li class="breadcrumb-item"><a href="2_6_PREVIDENCIA_SOCIALLinkTabelas.php">2.6 - PREVIDÊNCIA SOCIAL</a></li>             
                 <li class="breadcrumb-item active">  2.6.11 - Quantidade e valor das pensões concedidas por morte  </li>

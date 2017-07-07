@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="2_CaracteristicasDemograficas.php"> 2 - CARACTERÍSTICAS DEMOGRÁFICAS</a></li>  
                 <li class="breadcrumb-item"><a href="2_4_NupcialidadeLinkTabelas.php">2.4 - NUPCIALIDADE</a></li>
                 <li class="breadcrumb-item active">    2.4.1 - Número de casamentos</li>

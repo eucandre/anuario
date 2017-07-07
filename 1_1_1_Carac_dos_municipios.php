@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="Territorio.php"> 1 - Território</a></li> 
                 <li class="breadcrumb-item"><a href="TerritorioLinkTabelas.php">1.1 - CARACTERISTICAS GEOGRÁFICAS</a></li>
                 <li class="breadcrumb-item active">  1.1.1 - Ano de instalação</li>

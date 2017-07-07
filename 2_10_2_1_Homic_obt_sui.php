@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="2_CaracteristicasDemograficas.php"> 2 - CARACTERÍSTICAS DEMOGRÁFICAS</a></li>  
                 <li class="breadcrumb-item"><a href="2_10_2_SEGURANCA_PUBLICALinkTabelas.php">2.10.2 - SEGURANÇA PÚBLICA</a></li>
                 <li class="breadcrumb-item active"> 2.10.2.1 - Número de homicídios</li>

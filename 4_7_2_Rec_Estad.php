@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="4_ECONOMIA.php">4 - ECONOMIA</a></li>  
                 <li class="breadcrumb-item"><a href="4_7_FINANCAS_PUBLICASLinkTabelas.php"> 4.7 - FINANÇAS PÚBLICAS</a></li>
                 <li class="breadcrumb-item active"> 4.7.2 - Receita arrecadada, por tipo</li>

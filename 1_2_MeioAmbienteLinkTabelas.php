@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="Territorio.php"> 1 - TERRITÓRIO</a></li> 
                 <li class="breadcrumb-item active">1.2 - MEIO AMBIENTE</li>
             </ol>

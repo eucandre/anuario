@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="4_ECONOMIA.php">4 - ECONOMIA</a></li>  
                 <li class="breadcrumb-item"><a href="4_6_CONTABILIDADE_SOCIALLinkTabelas.php"> 4.6 - CONTABILIDADE SOCIAL</a></li>
                 <li class="breadcrumb-item active">   4.6.1 - Produto Interno Bruto a preço de mercado corrente</li>

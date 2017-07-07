@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="2_CaracteristicasDemograficas.php"> 2 - CARACTERÍSTICAS DEMOGRÁFICAS</a></li>  
                 <li class="breadcrumb-item"><a href="2_8_2_EDUCACAO_SUPERIORLinkTabelas.php"> 2.8.2 - EDUCAÇÃO SUPERIOR</a></li>
                 <li class="breadcrumb-item active">2.8.2.1 - Número de instituições da educação superior</li>

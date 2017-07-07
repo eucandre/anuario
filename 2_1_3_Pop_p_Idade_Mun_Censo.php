@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="2_CaracteristicasDemograficas.php">2 - CARACTERÍSTICAS DEMOGRÁFICAS</a></li>  
                 <li class="breadcrumb-item"><a href="2_1_PopulacaoLinkTabelas.php"> 2.1 - POPULAÇÃO </a></li> 
                 <li class="breadcrumb-item active"> 2.1.3 - População residente recenseada, por grupo de idade</li>

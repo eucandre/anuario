@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="4_ECONOMIA.php">4 - ECONOMIA</a></li>  
                 <li class="breadcrumb-item"><a href="4_3_ATIVIDADE_INDUSTRIALLinkTabelas.php"> 4.3 - ATIVIDADE INDUSTRIAL</a></li>
                 <li class="breadcrumb-item active">   4.3.2 - Canas entradas por origem e moídas por destino</li>

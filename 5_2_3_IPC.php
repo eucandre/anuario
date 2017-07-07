@@ -23,7 +23,7 @@
 
         <div id="banner">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="inicio.php">Início</a></li>
+                <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item"><a href="5_INDICADORES.php">5 - INDICADORES</a></li>  
                 <li class="breadcrumb-item"><a href="5_2_INDICADORES_ECONOMICOSLinkTabelas.php"> 5.2 - INDICADORES ECONÔMICOS</a></li>
                 <li class="breadcrumb-item active"> 5.2.3 - Índice de Preço ao Consumidor, variações % simples por grupo</li>
