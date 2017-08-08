@@ -34,46 +34,31 @@
                 <div id="conteudo">
                     <div class='container'>
                         <h3>2 - CARACTERÍSTICAS DEMOGRÁFICAS E SOCIOECONÔMICAS DA POPULAÇÃO</h3>
-                        <ul>
-                          <li>
-                              <a href="2_1_PopulacaoLinkTabelas.php">2.1 - POPULAÇÃO</a> <br />
-                          </li>
-                          <li>
-                              <a href="2_2_FamiliasLinkTabelas.php">  2.2 - FAMÍLIAS E DOMICÍLIOS</a> <br />
-                          </li>
-                          <li>
-                            <a href="2_3_NascimentosLinkTabelas.php">  2.3 - NASCIMENTOS E ÓBITOS</a> <br />
-                          </li>
-                          <li>
-                            <a href="2_4_NupcialidadeLinkTabelas.php">   2.4 - NUPCIALIDADE</a> <br />
-                          </li>
-                          <li>
-                            <a href="2_5_SaudeLinkTabelas.php">   2.5 - SAÚDE</a> <br />
-                          </li>
-                          <li>
-                            <a href="2_6_PREVIDENCIA_SOCIALLinkTabelas.php">   2.6 - PREVIDÊNCIA SOCIAL</a> <br />
-                          </li>
-                          <li>
-                            <a href="2_7_ASSISTENCIA_SOCIALLinkTabelas.php">   2.7 - ASSISTÊNCIA SOCIAL</a> <br />
-                          </li>
-                        
+                        <ul style="list-style-type:none;">
+                          <li><a href="2_1_PopulacaoLinkTabelas.php" style=" text-decoration:none;">2.1 - POPULAÇÃO</a> </li>
+                          <li><a href="2_2_FamiliasLinkTabelas.php" style=" text-decoration:none;">  2.2 - FAMÍLIAS E DOMICÍLIOS</a> </li>
+                          <li><a href="2_3_NascimentosLinkTabelas.php" style=" text-decoration:none;">2.3 - NASCIMENTOS E ÓBITOS</a> <br /></li>
+                          <li><a href="2_4_NupcialidadeLinkTabelas.php" style=" text-decoration:none;">2.4 - NUPCIALIDADE</a> 
+  </li>
+                          <li><a href="2_5_SaudeLinkTabelas.php" style=" text-decoration:none;">   2.5 - SAÚDE</a></li>
+                          <li><a href="2_6_PREVIDENCIA_SOCIALLinkTabelas.php" style=" text-decoration:none;">   2.6 - PREVIDÊNCIA SOCIAL</a></li>
+                          <li><a href="2_7_ASSISTENCIA_SOCIALLinkTabelas.php" style=" text-decoration:none;">   2.7 - ASSISTÊNCIA SOCIAL</a></li>
+                          <h4>2.8 - EDUCAÇÃO</h4>
+  <li>
+                  	<ul style="list-style-type:none;">
+  		                <li><a href="2_8_1_EDUCACAO_BASICALinkTabelas.php" style=" text-decoration:none;">2.8.1 - EDUCAÇÃO BÁSICA</a></li>
+                                <li><a href="2_8_2_EDUCACAO_SUPERIORLinkTabelas.php" style=" text-decoration:none;">2.8.2 - EDUCAÇÃO SUPERIOR</a>
+        </li>
+  	</ul>
+  </li>
+                        <li><a href="2_9_CULTURALinkTabelas.php" style=" text-decoration:none;">2.9 - CULTURA</a></li>
+                        <h4>2.10 - JUSTIÇA E SEGURANÇA</h4>
+                        <ul style="list-style-type:none;" >
+                            <li><a href="2_10_JUSTICA_E_SEGURANCALinkTabelas.php" style=" text-decoration:none;">2.10.1 - MOVIMENTO ELEITORAL</a></li>
+                       	<li><a href="2_10_2_SEGURANCA_PUBLICALinkTabelas.php" style=" text-decoration:none;">2.10.2 - SEGURANÇA PÚBLICA</a></li>
+  </ul>
+</ul>  
 
-                        <h5>2.8 - EDUCAÇÃO</h5>
-                        
-                          <li><ul>
-                            <li><a href="2_8_1_EDUCACAO_BASICALinkTabelas.php">2.8.1 - EDUCAÇÃO BÁSICA</a> <br /> </li>
-                               </ul> 
-                          </li> 
-                          <li>     <ul>  
-                            <li><a href="2_8_2_EDUCACAO_SUPERIORLinkTabelas.php">2.8.2 - EDUCAÇÃO SUPERIOR</a> <br />  </li></ul>
-                          </li>
-                        </ul>
-                        
-                        
-                        <li><a href="2_9_CULTURALinkTabelas.php">2.9 - CULTURA</a> <br /></li>
-                        <h5>2.10 - JUSTIÇA E SEGURANÇA</h5>
-                        <li><a href="2_10_JUSTICA_E_SEGURANCALinkTabelas.php">2.10.1 - MOVIMENTO ELEITORAL</a> <br /></li>
-                        <li><a href="2_10_2_SEGURANCA_PUBLICALinkTabelas.php">2.10.2 - SEGURANÇA PÚBLICA</a> <br /></li>
 
                         <div class="imagemTexto">
                             <br />
