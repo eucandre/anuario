@@ -969,7 +969,7 @@ BAD1AAAAdgUAAAAA
    <tr>
     <td height=3></td>
     <td rowspan=2 align=left valign=top><img width=164 height=4
-    src="expediente_arquivos/Anuario202017_31516_image004.png" v:shapes="Text_x0020_Box_x0020_4 Text_x0020_Box_x0020_23 Text_x0020_Box_x0020_46 Text_x0020_Box_x0020_48 Text_x0020_Box_x0020_111 Text_x0020_Box_x0020_114 Text_x0020_Box_x0020_162 Text_x0020_Box_x0020_165 Text_x0020_Box_x0020_172 Text_x0020_Box_x0020_174 Text_x0020_Box_x0020_187 Text_x0020_Box_x0020_190"></td>
+    src="expediente_arquivos/004.png" v:shapes="Text_x0020_Box_x0020_4 Text_x0020_Box_x0020_23 Text_x0020_Box_x0020_46 Text_x0020_Box_x0020_48 Text_x0020_Box_x0020_111 Text_x0020_Box_x0020_114 Text_x0020_Box_x0020_162 Text_x0020_Box_x0020_165 Text_x0020_Box_x0020_172 Text_x0020_Box_x0020_174 Text_x0020_Box_x0020_187 Text_x0020_Box_x0020_190"></td>
     <td></td>
     <td align=left valign=top><img width=65 height=3
     src="expediente_arquivos/Anuario202017_31516_image005.png" v:shapes="Text_x0020_Box_x0020_5"></td>
