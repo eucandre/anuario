@@ -9,7 +9,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="bootstrap.min.js"></script>
 
-        <title> Anuário Estatístico 2017 </title>
 
     </head>
     <body>

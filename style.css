@@ -22,8 +22,7 @@ header{}
 .header1{
     height: 50px;
     width: 100%; 
-    /*background:  #0c3662 url(img/logo.png) 95% 95% no-repeat;*/
-    background  :  #F6F0ED url(img/bandeira.png) no-repeat;
+    background  :  #F6F0ED url(img/cincoanos.png) no-repeat;
     font:  bold 35px "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 

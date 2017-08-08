@@ -11,13 +11,13 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-        <title> Anuário Estatístico 2017 </title>
 
     </head>
     <body>
         <header class="header2">
 
         </header>
+
         <header class="header1">
             <div class="espacoLateral"><?php include 'head1.php'; ?></div>
         </header>

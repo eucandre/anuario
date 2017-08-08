@@ -11,7 +11,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-        <title> Anuário Estatístico 2017 </title>
 
     </head>
     <body>
@@ -27,7 +26,6 @@
                 <li class="breadcrumb-item"><a href="Inicio.php">Início</a></li>
                 <li class="breadcrumb-item active">   Expediente </li>
             </ol>
-            
         </div>
         <div id="container">
 
